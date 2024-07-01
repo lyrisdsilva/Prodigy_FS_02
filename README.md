@@ -19,11 +19,10 @@ Develop a web application that allows administrators to perform CRUD (Create, Re
 * Ensure the system has proper validation and authentication mechanisms to protect sensitive employee data.
 
 ## Technologies Used
-* NetBeans -
-* Java -
-* MySQL Server -
-* MySQL WorkBench - 
-
+* NetBeans - NetBeans is an integrated development environment (IDE) primarily for Java development.
+* Java - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+* MySQL Server - MySQL is an open-source relational database management system (RDBMS) that is widely used for web applications, data warehousing, and various enterprise applications.
+* MySQL WorkBench - MySQL Workbench is a unified visual tool used by database administrators, developers, and data architects for designing, developing, and managing MySQL databases.
 
 ## Setup and Installation
 ### Prequisites
